@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a senior CS major at UTD.<br>🌱 I’m interested in UX/UI Design and Web Development.<br>👯 I’m looking to collaborate on: Frontend, Full-stack web apps and open-source projects.<br>⚡ Fun fact: I can debug code faster with a matcha latte in hand.
+🔭 I’m a senior CS major at UTD.<br>🌱 I’m interested in Full-stack Web Developmen, UX/UI Designt, and AI.<br>👯 I’m looking to collaborate on: Frontend Dev, Full-Stack Dev and open-source projects.<br>⚡ Fun fact: I can debug code faster with a matcha latte in hand.
 
 
 ## 🌐 Socials:
