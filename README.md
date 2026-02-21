@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Recent BS in Computer Science graduate from UTD.<br>🌱 I’m interested in Full-stack Web Developmen, UX/UI Designt, and AI.<br>👯 I’m looking to collaborate on: Frontend Dev, Full-Stack Dev and open-source projects.<br>⚡ Fun fact: I can debug code faster with a matcha latte in hand.
-
+MY WEBSITE: https://quynhle-portfolio.onrender.com/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quynhle01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quynhle201) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quynhltnq201@gmail.com) 
